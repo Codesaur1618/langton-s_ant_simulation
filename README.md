@@ -1,2 +1,2 @@
 # langton-s_ant_simulation
-langton's ant simulation usaing python and its attributes 
+langton's ant simulation using python and its attributes 
